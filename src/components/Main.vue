@@ -6,12 +6,12 @@
 export default {
   data () {
     return {
-      header: 'The build time is ridiculous. HMR is fast.'
+      header: 'minimal vue-parcel app'
     }
   }
 }
 </script>
 
 <style lang="scss">
-@import './index';
+@import '../index';
 </style>
